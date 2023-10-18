@@ -7,4 +7,7 @@ public class cls5 {
 
 	}
 
+	public void add() {
+		
+	}
 }
